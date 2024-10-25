@@ -1,0 +1,18 @@
+﻿  OsaAssert.c
+  OsaError.c
+  OsaErrorWin.c
+  OsaFileWin.c
+  OsaHardware.c
+  OsaInitWin.c
+  OsaIpHelperWin.c
+  OsaList.c
+  OsaMemWin.c
+  OsaMsgQWin.c
+  OsaSocketWin.c
+  OsaStringWin.c
+  OsaSyncWin.c
+  OsaThreadsWin.c
+  OsaTimeWin.c
+  Generating Code...
+     Creating library C:\Nighthawk_git\OSAbstract\solution\..\..\BuildOutputs\OsAbstract\Debug\OsAbstract.lib and object C:\Nighthawk_git\OSAbstract\solution\..\..\BuildOutputs\OsAbstract\Debug\OsAbstract.exp
+  OsAbstract.vcxproj -> C:\Nighthawk_git\OSAbstract\solution\..\..\BuildOutputs\OsAbstract\Debug\OsAbstract.dll

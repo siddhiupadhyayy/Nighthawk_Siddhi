@@ -1,0 +1,8 @@
+﻿  TestAppClient 2.cpp
+c:\users\320265084\downloads\testappclient 2.cpp(56): warning C4047: 'initializing': 'CHAR' differs in levels of indirection from 'void *'
+c:\users\320265084\downloads\testappclient 2.cpp(199): warning C4022: 'OsaThreadCreate': pointer mismatch for actual parameter 3
+c:\users\320265084\downloads\testappclient 2.cpp(213): warning C4022: 'OsaThreadCreate': pointer mismatch for actual parameter 3
+c:\users\320265084\downloads\testappclient 2.cpp(239): warning C4022: 'OsaThreadCreate': pointer mismatch for actual parameter 3
+c:\users\320265084\downloads\testappclient 2.cpp(341): warning C4013: 'getchar' undefined; assuming extern returning int
+  TestClient.vcxproj -> C:\Nighthawk_git\OSAbstract\solution\TestClient\Debug\TestClient.exe
+          1 file(s) copied.

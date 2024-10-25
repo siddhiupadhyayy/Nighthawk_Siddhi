@@ -1,0 +1,61 @@
+﻿  OsaAssert.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaassert.c(13): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaassert.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaassert.c(15): fatal error C1083: Cannot open include file: 'OsaGenTypes.h': No such file or directory
+  OsaError.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaerror.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaerror.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaerror.c(14): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  OsaErrorWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaerrorwin.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaerrorwin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaerrorwin.c(16): fatal error C1083: Cannot open include file: 'OsaGenTypes.h': No such file or directory
+  OsaFileWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osafilewin.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osafilewin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osafilewin.c(21): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  OsaHardware.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osahardware.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osahardware.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osahardware.c(15): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  OsaInitWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osainitwin.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osainitwin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osainitwin.c(16): fatal error C1083: Cannot open include file: 'OsaGenTypes.h': No such file or directory
+  OsaIpHelperWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaiphelperwin.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaiphelperwin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osaiphelperwin.c(18): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  OsaList.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osalist.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osalist.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osalist.c(14): fatal error C1083: Cannot open include file: 'OsaList.h': No such file or directory
+  OsaMemWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osamemwin.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osamemwin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osamemwin.c(17): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  OsaMsgQWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osamsgqwin.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osamsgqwin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osamsgqwin.c(15): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  OsaSocketWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osasocketwin.c(11): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osasocketwin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osasocketwin.c(16): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  OsaStringWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osastringwin.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osastringwin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osastringwin.c(18): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  OsaSyncWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osasyncwin.c(12): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osasyncwin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osasyncwin.c(15): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  OsaThreadsWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osathreadswin.c(11): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osathreadswin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osathreadswin.c(15): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  OsaTimeWin.c
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osatimewin.c(11): warning C4005: 'OSA_INTERNAL': macro redefinition
+  c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osatimewin.c: note: see previous definition of 'OSA_INTERNAL'
+c:\ddrive\gitnighthawk\nighthawk_com_module_main\osabstract\osa\src\osatimewin.c(16): fatal error C1083: Cannot open include file: 'OsaError.h': No such file or directory
+  Generating Code...

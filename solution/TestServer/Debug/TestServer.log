@@ -1,0 +1,9 @@
+﻿  PatSupMain 1.cpp
+c:\users\320265084\downloads\patsupmain 1.cpp(130): warning C4090: 'function': different 'volatile' qualifiers
+c:\users\320265084\downloads\patsupmain 1.cpp(209): warning C4090: 'function': different 'volatile' qualifiers
+c:\users\320265084\downloads\patsupmain 1.cpp(235): warning C4022: 'OsaThreadCreate': pointer mismatch for actual parameter 3
+c:\users\320265084\downloads\patsupmain 1.cpp(236): warning C4305: 'function': truncation from 'int' to 'UINT8'
+c:\users\320265084\downloads\patsupmain 1.cpp(250): warning C4022: 'OsaThreadCreate': pointer mismatch for actual parameter 3
+c:\users\320265084\downloads\patsupmain 1.cpp(298): warning C4027: function declared without formal parameter list
+  TestServer.vcxproj -> C:\Nighthawk_git\OSAbstract\solution\TestServer\Debug\TestServer.exe
+          1 file(s) copied.
